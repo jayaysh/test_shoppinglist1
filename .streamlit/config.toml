@@ -1,0 +1,5 @@
+[client]
+# Deploy 버튼과 ⋮ 메뉴 등 개발자용 툴바를 숨긴다.
+toolbarMode = "minimal"
+
+# 주의: [theme] 섹션을 넣으면 OS 다크/라이트 자동 전환이 꺼진다. 포인트 컬러는 기본값(#ff4b4b)을 그대로 사용.
